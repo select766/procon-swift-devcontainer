@@ -1,0 +1,112 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Debug f",
+            "program": "${workspaceFolder:swift}/.build/debug/f",
+            "preLaunchTask": "swift: Build Debug f"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Release f",
+            "program": "${workspaceFolder:swift}/.build/release/f",
+            "preLaunchTask": "swift: Build Release f"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Debug e",
+            "program": "${workspaceFolder:swift}/.build/debug/e",
+            "preLaunchTask": "swift: Build Debug e"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Release e",
+            "program": "${workspaceFolder:swift}/.build/release/e",
+            "preLaunchTask": "swift: Build Release e"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Debug d",
+            "program": "${workspaceFolder:swift}/.build/debug/d",
+            "preLaunchTask": "swift: Build Debug d"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Release d",
+            "program": "${workspaceFolder:swift}/.build/release/d",
+            "preLaunchTask": "swift: Build Release d"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Debug c",
+            "program": "${workspaceFolder:swift}/.build/debug/c",
+            "preLaunchTask": "swift: Build Debug c"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Release c",
+            "program": "${workspaceFolder:swift}/.build/release/c",
+            "preLaunchTask": "swift: Build Release c"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Debug b",
+            "program": "${workspaceFolder:swift}/.build/debug/b",
+            "preLaunchTask": "swift: Build Debug b"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Release b",
+            "program": "${workspaceFolder:swift}/.build/release/b",
+            "preLaunchTask": "swift: Build Release b"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Debug a",
+            "program": "${workspaceFolder:swift}/.build/debug/a",
+            "preLaunchTask": "swift: Build Debug a"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift}",
+            "name": "Release a",
+            "program": "${workspaceFolder:swift}/.build/release/a",
+            "preLaunchTask": "swift: Build Release a"
+        }
+    ]
+}
